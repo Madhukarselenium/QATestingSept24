@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-06T09:33:49 IST" name="Suite" finished-at="2024-11-06T09:33:53 IST" duration-ms="4187">
+    <groups>
+    </groups>
+    <test started-at="2024-11-06T09:33:49 IST" name="Test" finished-at="2024-11-06T09:33:53 IST" duration-ms="4187">
+      <class name="maventesting.demo.MavenDemo">
+        <test-method signature="setUp()[pri:0, instance:maventesting.demo.MavenDemo@22a637e7]" started-at="2024-11-06T09:33:49 IST" name="setUp" finished-at="2024-11-06T09:33:53 IST" duration-ms="4144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- maventesting.demo.MavenDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
